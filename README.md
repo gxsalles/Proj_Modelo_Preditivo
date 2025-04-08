@@ -29,6 +29,10 @@ Este projeto tem como objetivo prever a quantidade de sorvetes vendidos em funç
 
 ### 🔹 Pipeline criado no Azure Machine Learning
 
-Abaixo está o pipeline construído no Azure ML Designer para treinar e avaliar o modelo de regressão linear:
+• Abaixo está o pipeline construído no Azure ML Designer para treinar e avaliar o modelo de regressão linear:
 
 ![Pipeline no Azure ML](https://raw.githubusercontent.com/gxsalles/Proj_Modelo_Preditivo/refs/heads/main/inputs/Modelo_Designer.jpg)
+
+• Abaixo está o pipeline construído no Azure ML Automatizado para treinar e avaliar o modelo de regressão linear:
+
+![Pipeline no Azure ML](https://raw.githubusercontent.com/gxsalles/Proj_Modelo_Preditivo/refs/heads/main/inputs/Modelo_AutoML.jpg)
