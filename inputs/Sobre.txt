@@ -1,0 +1,3 @@
+Este projeto busca prever vendas de sorvete com base na temperatura.
+Usamos regressão linear com MLflow para rastrear o modelo.
+
